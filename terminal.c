@@ -92,6 +92,7 @@ char **splitArgument(char *str) {
       // מחזיר את המערך של המחרוזות הקטנות
 }
 
+חלק2
 /* 
     * Logout
     * args: array of strings
@@ -246,6 +247,7 @@ void copy_file(char **args) {
     fclose(destination);
 }
 
+חלק4
 void move_file(char **args) {
     // Count the number of arguments
     int num_args = 0; 
