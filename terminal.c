@@ -19,7 +19,7 @@ void welcome() {
     printf("CY//S\n");
     printf("AYASAYYYYYYYY///PS\n");
     printf("y//Y\n");
-    printf("https://github.com/MARIAMDARAWSHY/-\n");
+    printf("https://github.com/Mariamdrawshy\n");
     printf("cS5ps\n");
     printf("PCCCCY//p\n");
     printf("PP///AC//Y\n");
